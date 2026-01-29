@@ -12,6 +12,7 @@ I am a computer engineering student, currently halfway through my degree, passio
 - 📫 Reach out to me at: <a href="jimenavazocars@gmail.com">jimenavazocars@gmail.com</a>
 
 <br>
+
 ## My Skills & Statistics
 
 <h4> Languages </h4>
@@ -31,16 +32,16 @@ I am a computer engineering student, currently halfway through my degree, passio
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img scr="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
-<h4> 📊 Technology Usage & Github Stats </h4>
+<h4>  Technology Usage & Github Stats </h4>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&show_icons=true" alt="Top Langs" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimenaazocar05&layout=compact&theme=radical&show_icons=true" alt="Top Langs" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Github Stats" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jimenaazocar05&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Github Stats" />
   </a>
 </p>
 
